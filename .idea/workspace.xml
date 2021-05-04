@@ -267,11 +267,6 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="api_key" value="80bcc9686e99ff5e9c39b0c5b7677af7" />
-        <env name="twilio_sid" value="AC430f95a5a086d41e250631e9116311fd" />
-        <env name="twilio_auth_token" value="965784664019391582644bba583a60e4" />
-        <env name="phone_num" value="18606725740" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
